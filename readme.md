@@ -1,1 +1,2 @@
-# Mój projekt
+# Mój projekt 
+Opis projektu
